@@ -1,12 +1,12 @@
 ## Welcome!
 
-Official GitHub organization for the convex research group at the Hong Kong University of Science and Technology (HKUST).
+I am Daniel Palomar, a Professor at the Hong Kong University of Science and Technology (HKUST). I work on optimization problems related to financial systems and data analytics in general. My webpage is https://www.danielppalomar.com
 
 Here you'll find repositories that host practical implementations of the research published by the [Convex Group](https://www.danielppalomar.com/group/).
 Video presentations are available on YouTube: https://www.youtube.com/danielpalomar.
 
 
-### Graph Learning in Finance and Other Applications
+#### Graph Learning in Finance and Other Applications
 * [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019) [[CRAN](https://cran.r-project.org/package=spectralGraphTopology)]
 * [sparseGraph](https://github.com/convexfi/sparseGraph): Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model (NeurIPS 2020)
 * [fingraph](https://github.com/convexfi/fingraph): Graphical Models in Heavy-Tailed Markets (NeurIPS 2021) [[CRAN](https://CRAN.R-project.org/package=fingraph)]

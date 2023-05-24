@@ -14,7 +14,7 @@ Video presentations are available on YouTube: https://www.youtube.com/danielpalo
 
 
 ### Portfolio Optimization
-* [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio): Design of Risk Parity Portfolios [[CRAN](https://cran.r-project.org/package=riskParityPortfolio)]
+* [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio): Design of Risk Parity Portfolios [[CRAN](https://cran.r-project.org/package=riskParityPortfolio)] - Listed in [Task View on Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 * [riskparity.py](https://github.com/convexfi/riskparity.py): SCRIP: Successive Convex Optimization Methods for Risk Parity Portfolio Design (IEEE TSP 2015)
 * [highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios): Design of High-Order Portfolios via Mean, Variance, Skewness, and Kurtosis [[CRAN](https://cran.r-project.org/package=highOrderPortfolios)]
 * [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest): Automated Backtesting of Portfolios over Multiple Datasets [[CRAN](https://cran.r-project.org/package=portfolioBacktest)]
@@ -25,7 +25,7 @@ Video presentations are available on YouTube: https://www.youtube.com/danielpalo
 
 * [intradayModel](https://github.com/convexfi/intradayModel): Modeling and Forecasting Financial Intraday Signals [[CRAN](https://cran.r-project.org/package=intradayModel)]
 * [fitHeavyTail](https://github.com/convexfi/fitHeavyTail): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=fitHeavyTail)]
-* [imputeFin](https://github.com/dppalomar/imputeFin): Imputation of Financial Time Series with Missing Values [[CRAN](https://cran.r-project.org/package=imputeFin)]
+* [imputeFin](https://github.com/dppalomar/imputeFin): Imputation of Financial Time Series with Missing Values [[CRAN](https://cran.r-project.org/package=imputeFin)] - Listed in [Task View on Missing Data](https://cran.r-project.org/web/views/MissingData.html)
 * [sparseEigen](https://github.com/dppalomar/sparseEigen): Computation of Sparse Eigenvectors of a Matrix [[CRAN](https://cran.r-project.org/package=sparseEigen)]
 
 

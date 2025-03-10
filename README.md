@@ -14,8 +14,9 @@ Video presentations are available on YouTube: https://www.youtube.com/danielpalo
 
 
 ### Portfolio Optimization
-* [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio): Design of Risk Parity Portfolios [[CRAN](https://cran.r-project.org/package=riskParityPortfolio)] - Listed in [Task View on Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
-* [riskparity.py](https://github.com/convexfi/riskparity.py): SCRIP: Successive Convex Optimization Methods for Risk Parity Portfolio Design (IEEE TSP 2015)
+* Risk parity portfolio: Design of Risk Parity Portfolios
+  - R: [riskParityPortfolio in GitHub](https://github.com/dppalomar/riskParityPortfolio) and [riskParityPortfolio in CRAN](https://cran.r-project.org/package=riskParityPortfolio) - Listed in [Task View on Empirical Finance]
+  - Python: [riskparityportfolio in GitHub](https://github.com/convexfi/riskparity.py) and [riskparityportfolio in PyPi](https://pypi.org/project/riskparityportfolio/)
 * [highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios): Design of High-Order Portfolios via Mean, Variance, Skewness, and Kurtosis [[CRAN](https://cran.r-project.org/package=highOrderPortfolios)]
 * [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest): Automated Backtesting of Portfolios over Multiple Datasets [[CRAN](https://cran.r-project.org/package=portfolioBacktest)]
 * [sparseIndexTracking](https://github.com/dppalomar/sparseIndexTracking): Design of Portfolio of Stocks to Track an Index [[CRAN](https://cran.r-project.org/package=sparseIndexTracking)]
@@ -31,5 +32,9 @@ Video presentations are available on YouTube: https://www.youtube.com/danielpalo
 
 ### Fast Variable/Feature Selection in Large-Scale High-Dimensional Settings
 
-* [TRexSelector](https://github.com/jasinmachkour/TRexSelector): Performs fast variable selection in high-dimensional settings while controlling the false discovery rate (FDR) at a user-defined target level [[CRAN](https://cran.r-project.org/package=TRexSelector)]
-* [tlars](https://github.com/jasinmachkour/tlars): Computes the solution path of the Terminating-LARS (T-LARS) algorithm [[CRAN](https://cran.r-project.org/package=tlars)]
+* **TRexSelector**: Performs fast variable selection in high-dimensional settings while controlling the false discovery rate (FDR) at a user-defined target level
+  - R: [TRexSelector in GitHub](https://github.com/jasinmachkour/TRexSelector) and [TRexSelector in CRAN](https://cran.r-project.org/package=TRexSelector)
+  - Python: [TRexSelector in GitHub](https://github.com/ArnauVilella/TRexSelector-python) and [TRexSelector in PyPi](https://pypi.org/project/trexselector/) 
+* **tlars**: Computes the solution path of the Terminating-LARS (T-LARS) algorithm
+  - R: [tlars in GitHub](https://github.com/jasinmachkour/tlars) and [tlars in CRAN](https://cran.r-project.org/package=tlars)
+  - Python: [tlars in GitHub](https://github.com/ArnauVilella/tlars-python) and [tlars in PyPi](https://pypi.org/project/tlars/)

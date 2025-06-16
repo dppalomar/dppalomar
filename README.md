@@ -5,6 +5,8 @@ I am Daniel Palomar, a Professor at the Hong Kong University of Science and Tech
 Here you'll find repositories that host practical implementations of the research published by the [Convex Group](https://www.danielppalomar.com/group/).
 Video presentations are available on YouTube: https://www.youtube.com/danielpalomar.
 
+👉 [Portfolio Optimization](https://portfoliooptimizationbook.com/) book available online.
+
 
 ### Graph Learning in Finance and Other Applications
 * [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019) [[CRAN](https://cran.r-project.org/package=spectralGraphTopology)]
